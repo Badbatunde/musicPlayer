@@ -176,7 +176,3 @@ audio.addEventListener('ended', nextSong);
 
 // Time of song
 audio.addEventListener('timeupdate',DurTime);
-
-const { age, id } = obj;
-console.log("age", age);
-console.log("id", id);
